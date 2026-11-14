@@ -1,5 +1,5 @@
 {
-    "name": "Music Assistant",
-    "url": "https://github.com/music-assistant/core",
-    "maintainer": "Music Assistant <marcelveldt@users.noreply.github.com>"
+    "name": "Lamauny's Music Assistant Addon",
+    "url": "https://github.com/lamauny/hassio-music-assistant-addon",
+    "maintainer": "Lamauny <lamauny@users.noreply.github.com>"
   }

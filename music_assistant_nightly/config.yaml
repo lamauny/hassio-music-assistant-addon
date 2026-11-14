@@ -33,7 +33,7 @@ backup_exclude:
   - .cache/*
   - library.db.backup
 stage: experimental
-image: ghcr.io/music-assistant/server
+image: ghcr.io/lamauny/music-assistant
 tmpfs: true
 options:
   log_level: info
